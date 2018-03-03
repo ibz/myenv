@@ -1,0 +1,162 @@
+{
+  RaiseAppIconsWhenBouncing = NO;
+  HighlightColor = "#ffffff";
+  RTCMaximizeKey = None;
+  SnapCornerDetect = 10;
+  FrameBorderColor = "#000000";
+  BounceAppIconsWhenUrgent = NO;
+  MenuTitleExtendSpace = 0;
+  MenuTextFont = "Trebuchet MS,sans serif:pixelsize=12";
+  MoveResizeKey = None;
+  UTitleBack = (mhgradient, "#989aa6", "#9fa1b5", "#86879b");
+  DragMaximizedWindow = Move;
+  NormalCursor = (builtin, left_ptr);
+  RunKey = None;
+  WindowShortcut10Key = None;
+  PixmapPath = (
+    "/home/ibz/GNUstep/Library/WindowMaker/Pixmaps",
+    "/home/ibz/GNUstep/Library/WindowMaker/Backgrounds",
+    "/home/ibz/GNUstep/Library/WindowMaker/CachedPixmaps",
+    "/usr/local/share/WindowMaker/Pixmaps",
+    "/usr/local/share/WindowMaker/Backgrounds",
+    "/usr/local/share/pixmaps"
+  );
+  PTitleBack = (mhgradient, "#5a5c66", "rgb:70/72/7e", "rgb:45/47/4e");
+  MenuDisabledColor = "#999999";
+  MenuTextBack = (mhgradient, "#384246", "#707080", "#4a4a61");
+  MinimizeAllKey = None;
+  HighlightActiveApp = YES;
+  MenuTitleBack = (mvgradient, "#18191f", "#474967", "#413b6d");
+  IconBack = (
+    mdgradient,
+    gray40,
+    "#6d6aa4",
+    "#564e8c",
+    "#41436c",
+    "#464771",
+    "#595090"
+  );
+  WindowRelaunchKey = None;
+  FTitleBack = (
+    mdgradient,
+    "#18191f",
+    "#939abd",
+    "#616185",
+    "#616185",
+    "#5f5f83",
+    "#555575",
+    "#59597a",
+    "#555575",
+    "#939abd"
+  );
+  LastWorkspaceKey = None;
+  LTCMaximizeKey = None;
+  ShowClipTitle = NO;
+  ResizebarBack = (solid, "#989aa6");
+  MoveHalfMaximizedWindowsBetweenScreens = NO;
+  OpaqueMoveResizeKeyboard = NO;
+  MenuTextColor = "#ffffff";
+  KeepAtBottomKey = None;
+  HighlightTextColor = "#000000";
+  FrameSelectedBorderColor = "#ffffff";
+  KeepOnTopKey = None;
+  MenuTitleColor = "#ffffff";
+  WorkspaceNameDisplayPosition = center;
+  WorkspaceMapKey = None;
+  MoveToNextWorkspaceKey = None;
+  FTitleColor = "#ffffff";
+  AppIconBalloons = NO;
+  MoveToWorkspace8Key = None;
+  DoNotMakeAppIconsBounce = NO;
+  WorkspaceBack = (mvgradient, "rgb:50/50/75", "#6a6f9e", "#4b4f70", "#28293c");
+  MoveToWorkspace9Key = None;
+  HideOthersKey = None;
+  ViKeyMenus = YES;
+  IconTitleFont = "Arial,sans serif:pixelsize=9";
+  SmoothWorkspaceBack = YES;
+  FrameFocusedBorderColor = "#000000";
+  IconPath = (
+    "/home/ibz/GNUstep/Library/Icons",
+    "/usr/local/share/WindowMaker/Icons",
+    "/usr/local/share/WindowMaker/Pixmaps",
+    "/home/ibz/GNUstep/Library/WindowMaker/Pixmaps",
+    "/home/ibz/GNUstep/Library/WindowMaker/CachedPixmaps",
+    "/usr/local/share/icons",
+    "/usr/local/share/pixmaps"
+  );
+  UTitleColor = "#333333";
+  MiniwindowPreviewBalloons = NO;
+  PTitleColor = "#ffffff";
+  WorkspaceBorder = LeftRight;
+  Attraction = NO;
+  SnapEdgeDetect = 1;
+  PointerWithHalfMaxWindows = NO;
+  DontLinkWorkspaces = NO;
+  CycleActiveHeadOnly = NO;
+  HelpBalloons = NO;
+  SingleClickLaunch = NO;
+  WindowPlacement = random;
+  WindowShortcut8Key = None;
+  CClipTitleColor = "#999999";
+  MoveToLastWorkspaceKey = None;
+  OmnipresentKey = None;
+  WindowShortcut9Key = None;
+  ClipTitleColor = "#ffffff";
+  MoveToPrevWorkspaceKey = None;
+  IconTitleColor = "#ffffff";
+  DisableBlinking = NO;
+  MoveToWorkspace2Key = None;
+  AntialiasedText = YES;
+  GroupNextKey = None;
+  ResizeIncrement = 0;
+  MoveToWorkspace3Key = None;
+  MoveToNextWorkspaceLayerKey = None;
+  MiniwindowTitleBalloons = NO;
+  NoWindowOverDock = NO;
+  WindowTitleFont = "Trebuchet MS,sans serif:weight=200:pixelsize=12";
+  CloseKey = "Mod1+F4";
+  ClipTitleFont = "Verdana:bold:pixelsize=10";
+  WindowShortcut1Key = None;
+  WindowShortcut2Key = None;
+  MoveToWorkspace1Key = None;
+  WindowTitleExtendSpace = 0;
+  WindowShortcut3Key = None;
+  WindowShortcut4Key = None;
+  WindowSnapping = NO;
+  MoveToWorkspace6Key = None;
+  MaximusKey = None;
+  MouseWheelTiltAction = None;
+  WindowShortcut5Key = None;
+  MaximizeKey = "Mod1+X";
+  MenuTitleFont = "Trebuchet MS,sans serif:bold:pixelsize=12";
+  WindowShortcut6Key = None;
+  MoveToWorkspace7Key = None;
+  LargeDisplayFont = "Trebuchet MS,sans serif:pixelsize=24";
+  WindowShortcut7Key = None;
+  MoveToPrevWorkspaceLayerKey = None;
+  MenuTextExtendSpace = 0;
+  CycleIgnoreMinimized = NO;
+  MoveToWorkspace4Key = None;
+  THMaximizeKey = None;
+  RHMaximizeKey = None;
+  OpaqueResize = NO;
+  ResizeDisplay = floating;
+  MouseForwardButtonAction = None;
+  MoveToWorkspace5Key = None;
+  SnapToTopMaximizesFullscreen = NO;
+  RBCMaximizeKey = None;
+  SaveSessionOnExit = YES;
+  MoveToWorkspace10Key = None;
+  MouseBackwardButtonAction = None;
+  BHMaximizeKey = None;
+  AlternativeHalfMaximized = NO;
+  GroupPrevKey = None;
+  LHMaximizeKey = None;
+  CirculateRaise = NO;
+  IgnoreGtkHints = NO;
+  LBCMaximizeKey = None;
+  ScreenSwitchKey = None;
+  IconTitleBack = "#18191f";
+  HMaximizeKey = None;
+  EnableWorkspacePager = NO;
+}
