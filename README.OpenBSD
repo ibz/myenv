@@ -1,0 +1,22 @@
+Useful commands
+===============
+
+* `fw_update -i` # list required firmware for drivers
+* `fw_update -a -p <path>` # install all firmware from <path> (a USB stick for example)
+* `ifconfig iwm0 nwid <NETWORK> wpakey <KEY>` && `dhclient iwm0` - connect wifi
+* `cat "https://mirrors.pidginhost.com/pub/OpenBSD/" > /etc/installurl` # set mirror for installing packages
+
+Packages
+========
+
+```
+bash
+emacs
+firefox
+git
+ipython
+irssi
+sakura
+windowmaker
+```
+
