@@ -3,6 +3,7 @@
   HighlightColor = "#ffffff";
   RTCMaximizeKey = None;
   SnapCornerDetect = 10;
+  LowerKey = None;
   FrameBorderColor = "#000000";
   BounceAppIconsWhenUrgent = NO;
   MenuTitleExtendSpace = 0;
@@ -52,8 +53,8 @@
   LastWorkspaceKey = None;
   LTCMaximizeKey = None;
   ShowClipTitle = NO;
-  ResizebarBack = (solid, "#989aa6");
   MoveHalfMaximizedWindowsBetweenScreens = NO;
+  ResizebarBack = (solid, "#989aa6");
   OpaqueMoveResizeKeyboard = NO;
   MenuTextColor = "#ffffff";
   KeepAtBottomKey = None;
@@ -106,7 +107,9 @@
   IconTitleColor = "#ffffff";
   DisableBlinking = NO;
   MoveToWorkspace2Key = None;
+  RaiseKey = None;
   AntialiasedText = YES;
+  HideKey = None;
   GroupNextKey = None;
   ResizeIncrement = 0;
   MoveToWorkspace3Key = None;
@@ -127,7 +130,7 @@
   MaximusKey = None;
   MouseWheelTiltAction = None;
   WindowShortcut5Key = None;
-  MaximizeKey = "Mod1+X";
+  MaximizeKey = "Shift+Mod1+M";
   MenuTitleFont = "Trebuchet MS,sans serif:bold:pixelsize=12";
   WindowShortcut6Key = None;
   MoveToWorkspace7Key = None;
@@ -156,6 +159,7 @@
   IgnoreGtkHints = NO;
   LBCMaximizeKey = None;
   ScreenSwitchKey = None;
+  WindowListKey = None;
   IconTitleBack = "#18191f";
   HMaximizeKey = None;
   EnableWorkspacePager = NO;

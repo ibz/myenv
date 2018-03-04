@@ -1,9 +1,9 @@
 (
   "Window Maker",
-  (sakura, SHORTCUT, F1, EXEC, sakura),
-  (run..., SHORTCUT, F2, EXEC, "%A(Run, Type command:)"),
+  (terminator, SHORTCUT, F1, EXEC, terminator),
+  (emacs, SHORTCUT, F2, EXEC, emacs),
   (firefox, SHORTCUT, F3, EXEC, firefox),
-  (emacs, SHORTCUT, F4, EXEC, emacs),
+  (run..., SHORTCUT, F4, EXEC, "%A(Run, Type command:)"),
   (
     Appearance,
     (
