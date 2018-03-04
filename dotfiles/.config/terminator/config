@@ -1,0 +1,42 @@
+[global_config]
+  enabled_plugins = ,
+  title_font = Sans 12
+  title_use_system_font = False
+  window_state = maximise
+[keybindings]
+  next_tab = <Primary><Shift>Right
+  page_down = Page_Down
+  page_up = Page_Up
+  prev_tab = <Primary><Shift>Left
+  switch_to_tab_1 = <Primary>1
+  switch_to_tab_10 = <Primary>0
+  switch_to_tab_2 = <Primary>2
+  switch_to_tab_3 = <Primary>3
+  switch_to_tab_4 = <Primary>4
+  switch_to_tab_5 = <Primary>5
+  switch_to_tab_6 = <Primary>6
+  switch_to_tab_7 = <Primary>7
+  switch_to_tab_8 = <Primary>8
+  switch_to_tab_9 = <Primary>9
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_image = None
+    backspace_binding = automatic
+    delete_binding = automatic
+    font = Monospace 13
+    foreground_color = "#00ff00"
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+    visible_bell = True
